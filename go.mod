@@ -1,4 +1,4 @@
-module github.com/andresperez/go-steam
+module github.com/andresperezl/go-steam
 
 go 1.14
 
